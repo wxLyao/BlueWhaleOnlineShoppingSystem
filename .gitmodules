@@ -1,0 +1,3 @@
+[submodule "bluewhale-frontend"]
+	path = bluewhale-frontend
+	url = https://github.com/wxLyao/bluewhale-frontend.git
